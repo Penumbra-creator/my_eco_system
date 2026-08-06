@@ -1,5 +1,5 @@
 # Игнорируем ключи Firebase 
-*.json
+my-eco-system-22c68-firebase-adminsdk-fbsvc-2879a9dfbe.json
 !package.json  
 
 # Игнорируем виртуальное окружение
