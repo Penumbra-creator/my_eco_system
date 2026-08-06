@@ -1,0 +1,26 @@
+# Игнорируем ключи Firebase 
+*.json
+!package.json  
+
+# Игнорируем виртуальное окружение
+venv/
+env/
+.venv/
+env/
+
+# Игнорируем кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Игнорируем файлы настроек с паролями 
+config.py
+.env
+*.env
+
+# Игнорируем файлы IDE
+.vscode/
+.idea/
+*.iml
+.DS_Store 
