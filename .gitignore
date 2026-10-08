@@ -1,5 +1,6 @@
 # Игнорируем ключи Firebase 
-my-eco-system-22c68-firebase-adminsdk-fbsvc-2879a9dfbe.json
+config_data.py
+test_firebase.py 
 !package.json  
 
 # Игнорируем виртуальное окружение
@@ -15,7 +16,6 @@ __pycache__/
 *.pyd
 
 # Игнорируем файлы настроек с паролями 
-config.py
 .env
 *.env
 
